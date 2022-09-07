@@ -1,0 +1,9 @@
+---
+docker_proxy_enable: false
+docker_proxy_http: 
+docker_proxy_https: 
+
+docker_registry_url: 
+docker_registry_username: 
+docker_registry_password: 
+docker_registry_insecure: false

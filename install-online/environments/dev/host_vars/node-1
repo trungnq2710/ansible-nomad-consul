@@ -1,0 +1,12 @@
+ansible_host: 192.168.72.129
+
+ansible_user: trungnq
+ansible_password: 1
+ansible_become_user: root
+ansible_become_password: 1
+ansible_become_method: sudo
+
+nomad_host_volumes:
+  - name: tool
+    path: /opt/volume/tool
+    read_only: false
