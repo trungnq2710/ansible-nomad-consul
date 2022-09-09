@@ -1,3 +1,4 @@
-proxy:
+proxy_env:
+  no_proxy:
   http_proxy: 
   https_proxy:
